@@ -17,6 +17,6 @@ A real-time dashboard that shows:
 - Requests
 
 ## Installation
-git clone https://github.com/YOUR_USERNAME/dynamic-data-dashboard.git
-cd dynamic-data-dashboard
-pip install -r requirements.txt
+- git clone https://github.com/YOUR_USERNAME/dynamic-data-dashboard.git
+- cd dynamic-data-dashboard
+- pip install -r requirements.txt
